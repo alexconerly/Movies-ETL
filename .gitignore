@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#Movie_ratings from kaggle:
-ratings.csv
-
 # C extensions
 *.so
 
