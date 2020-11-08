@@ -25,4 +25,4 @@ As a result of the analysis, an ETL function was succesfully created to read thr
 
 ## Summary
 
-From this project, it is evident the extract, transform, and load process is an extremely vital method for appropriately processing data to ensure the data is prepped prior to further analization.  By implementing the ETL process prior to analyzing a dataset, the resulting analysis becomes much more feasible and meaningful as it is better suited to provide useful insights within the data.
+From this project, it is evident the extract, transform, and load process is an extremely vital method for appropriately processing data to ensure the data is prepped prior to further analyzation.  By implementing the ETL process prior to analyzing a dataset, the resulting analysis becomes much more feasible and meaningful as it is better suited to provide useful insights within the data.
